@@ -1,6 +1,6 @@
 # FrontEnd 
 
-Go into the main directory and run ### `npm i` in the terminal
+Go into the main directory and run `npm i` in the terminal
 
 In the project directory, you can run:
 
